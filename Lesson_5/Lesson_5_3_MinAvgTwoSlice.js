@@ -1,6 +1,5 @@
 // https://app.codility.com/demo/results/training3WN9R4-NG7/
 function solution(A) {
-  // write your code in JavaScript (Node.js 8.9.4)
   let min_start = 0
   let min_avg = Number.MAX_SAFE_INTEGER
 

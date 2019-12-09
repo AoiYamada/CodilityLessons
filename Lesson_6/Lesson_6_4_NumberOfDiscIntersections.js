@@ -1,6 +1,5 @@
 // https://app.codility.com/demo/results/training2FKHST-PDZ/
 function solution(A) {
-  // write your code in JavaScript (Node.js 8.9.4)
   var data = A.map((r, x) => ({
     upper_bound: x + r,
     lower_bound: x - r,
